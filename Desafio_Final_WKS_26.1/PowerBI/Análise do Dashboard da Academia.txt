@@ -1,0 +1,38 @@
+Análise do Dashboard da Academia
+
+
+
+1. Frequência Semanal por Sexo e Atividade (Gráfico de Pizza)
+
+Observa-se a distribuição de frequência semanal entre os diferentes sexos (Masculino, Feminino e Outro) para cada tipo de atividade. Por exemplo, certas atividades podem ser mais procuradas por mulheres, outras por homens, e algumas atividades podem ter maior participação de clientes que se identificam como “Outro”. Essa informação ajuda a academia a entender melhor o engajamento de todos os perfis e a planejar turmas de forma inclusiva.
+
+
+
+2. Quantidade de Clientes por Condicionamento Físico e Sexo (Gráfico de Barras)
+
+Ao analisar o condicionamento físico por sexo, percebemos padrões diferentes: 
+
+Alguns sexos podem ter maior concentração em determinado nível de condicionamento.
+
+A inclusão do sexo “Outro” mostra a importância de reconhecer que há clientes com perfis diversos, e suas necessidades também podem ser distintas.
+
+Esses insights ajudam a personalizar treinos e criar programas que atendam a todos os clientes de forma equitativa.
+
+
+
+3. Frequência Semanal por Sexo e Tipo de Atividade Física (Gráfico de Colunas)
+
+A frequência semanal varia por sexo e tipo de atividade. A análise mostra que cada grupo (Masculino, Feminino, Outro) pode ter comportamentos distintos, o que é importante para ajustar planos de treino, incentivar a frequência e organizar horários de forma inclusiva.
+
+
+
+Conclusões Gerais:
+
+Há diferenças de comportamento e engajamento entre os sexos, incluindo o grupo “Outro”.
+Considerar todos os perfis é fundamental para criar um ambiente inclusivo e que motive a participação de todos os clientes.
+
+Esses dados permitem à academia:
+
+Personalizar treinos de acordo com o perfil e preferências dos clientes.
+Ajustar a grade de atividades para maior engajamento.
+Planejar campanhas e incentivos de forma inclusiva.
